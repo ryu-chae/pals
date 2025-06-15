@@ -1,8 +1,4 @@
 {
-    "AUTHORIZED_CHANNEL_ID": "",
-    "PERMIT_ROLE_ID": "",
-    "PERMIT_CANCEL_ROLE_ID": "",
-    "LOG_CHANNEL_ID": "",
     "authorized_channel_id": 1382106302813180004,
     "permit_role_id": 1383417177226346577,
     "permit_cancel_role_id": 1382312833751974008,
